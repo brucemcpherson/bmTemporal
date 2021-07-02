@@ -1,5 +1,5 @@
 # Google Apps Script Project: bmTemporal
-This repo (bmTemporal) was automatically updated on 6/30/2021, 1:30:25 PM by GasGit
+This repo (bmTemporal) was automatically updated on 7/2/2021, 1:08:25 PM by GasGit
 
 For more information on gasgit, see the [desktop liberation site](https://ramblings.mcpher.com/drive-sdk-and-github/migrategasgit/ "desktop liberation")
 
@@ -17,7 +17,7 @@ The shared link for [bmTemporal is here](https://script.google.com/d/1o_qJw1fdgF
 --- | --- 
 appsscript| json
 Code| server_js
-test| server_js
+Helpers| server_js
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
